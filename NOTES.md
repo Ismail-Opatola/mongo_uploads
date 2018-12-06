@@ -1,4 +1,4 @@
-# File Upload with Node, GridFS
+# File Upload with Mongo, Node, GridFS
 
 Simple single file upload with CRUDabilty
 
